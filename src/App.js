@@ -1,4 +1,4 @@
-import RestaurantScreen from './RestaurantScreen';
+import RestaurantScreen from './components/RestaurantScreen';
 
 const App = () => (
   <div>

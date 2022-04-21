@@ -1,4 +1,4 @@
-import RestaurantList from './RestaurantList';
+import RestaurantList from '../RestaurantListtaurantList';
 
 const RestaurantScreen = () => (
   <div>
