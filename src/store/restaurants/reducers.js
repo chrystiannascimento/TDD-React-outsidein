@@ -1,4 +1,4 @@
-import { combineReducers} from 'redux';
+import {combineReducers} from 'redux';
 import {STORE_RESTAURANTS} from './actions';
 
 const records = (state = [], action) => {
