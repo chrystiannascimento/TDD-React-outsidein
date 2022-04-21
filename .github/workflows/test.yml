@@ -4,7 +4,7 @@ on: [push]
 jobs:
   test:
     name: Test
-    runs-on: ubuntu-20.04
+    runs-on: windows-latest
     steps:
       - uses: actions/checkout@v3
       - name: Install Dependencies
