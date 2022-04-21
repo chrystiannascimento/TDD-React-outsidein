@@ -1,6 +1,8 @@
+import RestaurantScreen from './RestaurantScreen';
+
 const App = () => (
   <div>
-    <h1>Hello World</h1>
+    <RestaurantScreen />
   </div>
 );
 
